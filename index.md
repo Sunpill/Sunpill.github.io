@@ -15,7 +15,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing m
 
 ## Programming Skills
 
-Familiar with: **Python, PyTorch, MXNet, Matlab, LaTeX.**
+Familiar with: **Python, PyTorch, MXNet, Matlab, TeX.**
 
 ## Languages
 
