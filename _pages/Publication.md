@@ -12,4 +12,4 @@ header:
 
 ## Publications
 
-1. Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo. IronMask: Modular architecture for protecting deep face template. <A href="https://arxiv.org/abs/2104.02239">arXiv preprint, 2021</A>. <A href="http://cvpr2021.thecvf.com/">Accepted at CVPR 2021</A>
+1. Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo. <A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular architecture for protecting deep face template</A>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 16125-16134.
