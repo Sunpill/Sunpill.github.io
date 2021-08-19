@@ -9,9 +9,42 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+# News
+
+<ul type="square">
+    <li>
+        Participate in a new project supported by Samsung Science & Technology Foundation.
+        <br>
+        (Title: "Secure Multi-party Approximate Computation")    
+    </li>
+    <li>
+        Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
+        <details>
+            <summary>
+                (For more information, click the arrow)
+            </summary>
+            <iframe src="https://www.youtube.com/embed/RDl81Jd83zc?start=15563" width="560" height="315" frameborder="0"> </iframe>
+        </details>
+    </li>
+    <li>
+        Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
+        <br>
+        (Title: "Study on Crypto Primitives for SNARK")
+    </li>
+    <li>
+        Participate in a new project supported by National Security Research Institute (NSR). 
+        (Title: "Research on Incrementally Verifiable Computation Design Technique and Application Method")
+    </li>
+    <li>
+        One paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
+    </li>
+</ul>    
+
+
+
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing master's degree in applied mathemathics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interest is in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition or speaker recognition.
+I graduated from Hanyang University, Department of Mathematics and am pursuing master's degree in applied mathemathics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interest is in cryptography especially zero-knowledge proof and biometric. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition or speaker recognition.
 
 ## Programming Skills
 
