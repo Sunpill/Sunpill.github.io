@@ -22,6 +22,8 @@ header:
 ## Scholarships
 
 <ul type="square">
+<li><p style="text-align:left;">Teaching Assistant Scholarship<span style="float:right;">Mar 2021 - present</span></p></li>
+<br>
 <li>Teaching Assistant Scholarship, Hanyang University, 2021.3 - present</li>
 <br>
 <li>HY-IN Scholarship (entrance merit-based), Hanyang University, 2020.3 - present</li>
