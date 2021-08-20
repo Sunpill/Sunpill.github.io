@@ -111,13 +111,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/sunpill.kim.9"
+      url: "https://www.facebook.com/sunpill.kim.9"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/sunpill"
+      url: "https://github.com/sunpill"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/sunpick/"
+      url: "https://www.instagram.com/sunpick/"
 
 # Site Footer
 footer:
@@ -127,10 +127,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/sunpill.kim.9"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/Sunpill"
+      url: "https://github.com/sunpill"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/sunpick/"
 
 
 # Reading Files
