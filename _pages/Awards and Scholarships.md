@@ -23,18 +23,10 @@ header:
 
 <ul type="square">
 <li><p style="text-align:left;">Teaching Assistant Scholarship<span style="float:right;">Mar 2021 - present</span></p></li>
-<br>
-<li>Teaching Assistant Scholarship, Hanyang University, 2021.3 - present</li>
-<br>
-<li>HY-IN Scholarship (entrance merit-based), Hanyang University, 2020.3 - present</li>
-<br>
-<li>CSAT Scholarship (entrance merit-based), Hanyang University, 2015.3 - 2020.2 (4 years)</li>
-<br>
-<li>National Scholarship, Korea Student Aid Foundation, 2015.3 - 2020.2 (4 years)</li>
-<br>
-<li>Hyung Namjin Scholarship, Hyung Namjin Scholarship Foundation, 2019.3 - 2020.2</li>
-<br>
-<li>Wooin Scholarship, Wooin Scholarship Foundation, 2018.9 - 2019.8</li>
-<br>
-<li>Seoul Hope Scholarship, Seoul Scholarship Foundation, 2018.3 - 2019.2</li>
-</ul>
+<li><p style="text-align:left;">HY-IN Scholarship (entrance merit-based)<span style="float:right;">Mar 2020 - present</span></p></li>
+<li><p style="text-align:left;">CSAT Scholarship (entrance merit-based)<span style="float:right;">Mar 2015 - Feb 2020</span></p></li>
+<li><p style="text-align:left;">National Scholarship<span style="float:right;">Mar 2015 - Feb 2020</span></p></li>
+<li><p style="text-align:left;">Hyung Namjin Scholarship<span style="float:right;">Mar 2019 - Feb 2020</span></p></li>
+<li><p style="text-align:left;">Wooin Scholarship<span style="float:right;">Sep 2018 - Aug 2019</span></p></li>
+<li><p style="text-align:left;">Seoul Hope Scholarship<span style="float:right;">Mar 2018 - Feb 2019</span></p></li>    
+</ul>    
