@@ -97,12 +97,12 @@ author:
   avatar           : "/assets/images/ksp.jpg"
   bio              : "Hello! I am researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric with deep learning. Currently I am pursuing Ph.D. degree in applied mathematics at Hanyang University and am advised by Jae Hong Seo in Cryptology & Algorithm Lab."
   location         : "South Korea"
-  email            : "ksp0352@gmail.com"
-  github : "Sunpill"
+  email            : #"ksp0352@gmail.com"
+  #github : "Sunpill"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:ksp0352@gmail.com"
+      url: "mailto:ksp0352@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,13 +111,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+       url: "https://www.facebook.com/sunpill.kim.9"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/sunpill"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://www.instagram.com/sunpick/"
 
 # Site Footer
 footer:
