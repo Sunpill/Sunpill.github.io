@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sunpill Kim"
 description              : "Sunpill Kim"
-url                      : "https://sunpill.github.io"
+url                      : #"https://sunpill.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/ksp.jpg
