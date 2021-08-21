@@ -61,10 +61,10 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX.**
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
 
-<div class='mo'>모바일 기기<body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=570aqdu0xud&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script></body>
+<div class='mo'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=510d988emtu&amp;m=2&amp;c=baff00&amp;cr1=f03b11&amp;f=ubuntu&amp;l=0&amp;bv=55" async="async"></script></body>
  </div>
 
-<div class='pc'>PC 기기 <body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=570aqdu0xud&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script></body>
+<div class='pc'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=510d988emtu&amp;m=2&amp;c=baff00&amp;cr1=f03b11&amp;f=ubuntu&amp;l=0&amp;bv=55" async="async"></script></body>
  </div>
 
 <script>
@@ -90,24 +90,3 @@ if(ratio >= 2) {
 }
 
 </script>
-
-
-<script>
-var ratio = window.devicePixelRatio;
-
-{% if (ratio >= 2) %}
-
-<html>
-    <body>
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
-    </body>
-</html>
-</script>
-{% else %}
-<html>
-    <body>
-        <a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
-    </body>
-</html>
-</script>
-{% endif %}
