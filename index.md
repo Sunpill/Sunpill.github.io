@@ -65,8 +65,8 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
         <style>
             Body,
             script {
-            width: 70%;
-            height: 70%;
+            width: 70px;
+            height: 70px;
             }
         </style>
     </head>
