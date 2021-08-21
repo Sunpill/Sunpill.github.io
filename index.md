@@ -61,23 +61,49 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX, HTML.**
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
 
+<div class='mo'>모바일 기기</div>
+
+<div class='pc'>PC 기기</div>
+
+<script>
+
+var ratio = window.devicePixelRatio,
+
+     mo = document.querySelector('.mo'),
+
+     pc = document.querySelector('.pc');
+
+     
+
+console.log(ratio);
+
+if(ratio >= 2) {
+
+  pc.style.display = 'none';
+
+} else {
+
+  mo.style.display = 'none';
+
+}
+
+</script>
+
 <script>
 var ratio = window.devicePixelRatio;
 
-{% if(ratio > 0) %}
-</script>
-
+{% if (ratio >= 2) %}
 <html>
     <body>
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
     </body>
 </html>
-{% else %}
 </script>
-    
+{% else %}
 <html>
     <body>
         <a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
     </body>
 </html>
+</script>
 {% endif %}
