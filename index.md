@@ -72,9 +72,3 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
     </body>
 </html>
 {% endif %}
-
-<body>
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
-</body>
-
-<a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
