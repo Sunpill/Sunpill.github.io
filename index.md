@@ -60,6 +60,17 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX, HTML.**
 ## Contact
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
-<body>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4" heigh="160" width="160"></script>
-</body>
+<html>
+    <head>
+        <style>
+            html,
+            body {
+            width: 50%;
+            height: 50%;
+            }
+        </style>
+    </head>
+    <body>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4" heigh="160" width="160"></script>
+    </body>
+</html>
