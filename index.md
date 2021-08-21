@@ -48,7 +48,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing P
 
 ## Programming Skills
 
-Familiar with: **Python, PyTorch, MXNet, Matlab, TeX, HTML.**
+Familiar with: **Python, PyTorch, MXNet, Matlab, TeX.**
 
 ## Languages
 
@@ -93,9 +93,9 @@ if(ratio >= 2) {
 var ratio = window.devicePixelRatio;
 
 if(ratio >= 2){
-document.write('<html><body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body></html>')
+document.write('<body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body>')
 }else{
-document.write('<html><body><a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>    </body></html>')
+document.write('<a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>')
 }
 </script>
 
