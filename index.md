@@ -61,7 +61,9 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX, HTML.**
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
 
-{% if (Mobile::isMobileCheckByAgent() == True) %}
+var ratio = window.devicePixelRatio;
+
+{% if(ratio > 1) %}
 <html>
     <body>
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
