@@ -65,7 +65,7 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
 
 <div class='pc'>PC 기기</div>
 
-<script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4">
 
 var ratio = window.devicePixelRatio,
 
@@ -79,7 +79,6 @@ console.log(ratio);
 
 if(ratio >= 2) {
 
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
   pc.style.display = 'none';
 
 } else {
