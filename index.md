@@ -65,7 +65,7 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
 
 <div class='pc'>PC 기기</div>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4">
+<script>
 
 var ratio = window.devicePixelRatio,
 
@@ -83,7 +83,6 @@ if(ratio >= 2) {
 
 } else {
 
-  <a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
   mo.style.display = 'none';
 
 }
@@ -93,7 +92,21 @@ if(ratio >= 2) {
 <script>
 var ratio = window.devicePixelRatio;
 
+{% if(ratio >= 2) %}
+document.write('<html><body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body></html>
+')
+{% else %}
+document.write('<html><body><a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>    </body></html>
+')
+{% endif %}
+</script>
+
+
+<script>
+var ratio = window.devicePixelRatio;
+
 {% if (ratio >= 2) %}
+
 <html>
     <body>
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
