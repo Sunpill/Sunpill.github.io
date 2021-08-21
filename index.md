@@ -63,7 +63,7 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
 <html>
     <head>
         <style>
-            html,
+            body,
             script {
             width: 50%;
             height: 50%;
