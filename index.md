@@ -64,7 +64,7 @@ For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0
 <script>
 var ratio = window.devicePixelRatio;
 
-{% if(ratio > 1) %}
+{% if(ratio > 0) %}
 </script>
 
 <html>
