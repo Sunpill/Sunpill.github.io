@@ -90,9 +90,11 @@ if(ratio >= 2) {
 </script>
 
 <script>
-var ratio = window.devicePixelRatio;
+var ratio = window.devicePixelRatio,
+    
+console.log(ratio);
 
-if(ratio >= 2) {
+if(ratio < 2) {
 
 <body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body>
 
