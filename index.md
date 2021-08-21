@@ -61,9 +61,11 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX.**
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
 
-<div class='mo'>모바일 기기</div>
+<div class='mo'>모바일 기기<body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body>
+ </div>
 
-<div class='pc'>PC 기기</div>
+<div class='pc'>PC 기기 <a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
+ </div>
 
 <script>
 
@@ -84,23 +86,6 @@ if(ratio >= 2) {
 } else {
 
   mo.style.display = 'none';
-
-}
-
-</script>
-
-<script>
-var ratio = window.devicePixelRatio,
-    
-console.log(ratio);
-
-if(ratio < 2) {
-
-<body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script></body>
-
-} else {
-
-<a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
 
 }
 
