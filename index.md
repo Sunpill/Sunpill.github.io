@@ -61,7 +61,7 @@ Familiar with: **Python, PyTorch, MXNet, Matlab, TeX, HTML.**
 
 For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
 
-var ratio = window.devicePixelRatio;
+$var ratio = window.devicePixelRatio;
 
 {% if(ratio > 1) %}
 <html>
