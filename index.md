@@ -79,10 +79,12 @@ console.log(ratio);
 
 if(ratio >= 2) {
 
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4"></script>
   pc.style.display = 'none';
 
 } else {
 
+  <a href="https://clustrmaps.com/site/1bjjn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VDn72QTKekLYcu46qqfmQKEdawmaVaV1nX3eYIHfvi4&cl=ffffff"></a>
   mo.style.display = 'none';
 
 }
