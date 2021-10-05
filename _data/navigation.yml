@@ -2,8 +2,8 @@
 main:
   - title: "About me"
     url: https://sunpill.github.io
-  - title: "Awards and Scholarships"
-    url: /Awards and Scholarships/
+  - title: "CV"
+    url: https://Sunpill.github.io/assets/sunpill.pdf
   - title: "Publications"
     url: /Publications/
   # - title: "Sample Collections"
