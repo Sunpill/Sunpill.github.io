@@ -18,6 +18,12 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Dec 23, 2021) I will receive a scholarship of about $10000 from the Samil Foundation until February 2023.
+    </li>
+    <li>
+        (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
+    </li>
+    <li>
         Participate in a new project supported by Samsung Science & Technology Foundation.
         <br>
         (Title: "Secure Multi-party Approximate Computation")    
