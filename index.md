@@ -18,6 +18,11 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Feb 22, 2022) Participate in a new project supported by Korea Institute of Information Security & Cryptology.
+        <br>
+        (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system")
+    </li>
+    <li>
         (Dec 23, 2021) I will receive a scholarship of about $10000 from the Samil Foundation until February 2023.
     </li>
     <li>
