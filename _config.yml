@@ -114,10 +114,10 @@ author:
       url: "https://github.com/sunpill"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/sunpill.kim.9"
+      #url: "https://www.facebook.com/sunpill.kim.9"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sunpick/"
+      #url: "https://www.instagram.com/sunpick/"
 
 # Site Footer
 footer:
