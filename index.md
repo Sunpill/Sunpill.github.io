@@ -12,11 +12,14 @@ header:
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interest is in cryptography especially zero-knowledge proof and biometric. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition or speaker recognition.
+I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interest is in cryptography especially biometric and zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition or speaker recognition.
 
 # News
 
 <ul type="square">
+    <li>
+        (Apr 28, 2022) Presentation of research results related to <A href="https://Sunpill.github.io/assets/kms_spring_sunpill.pdf">Deep Face Template Protection in the wild</A> at <A href="https://www.kms.or.kr/md_meet/main.html?period=78">2022 KMS Spring Meeting</A>
+    </li>
     <li>
         (Feb 22, 2022) Participate in a new project supported by Korea Institute of Information Security & Cryptology.
         <br>
