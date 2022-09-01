@@ -18,6 +18,11 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Jul 11, 2022) Participate in a new project supported by CRYPTOLAB.
+        <br>
+        (Title: "Development of Encrypted Face Template DB Search Technology")
+    </li>
+    <li>
         (Apr 28, 2022) Presentation of research results related to <A href="https://Sunpill.github.io/assets/kms_spring_sunpill.pdf">Deep Face Template Protection in the wild</A> at <A href="https://www.kms.or.kr/md_meet/main.html?period=78">2022 KMS Spring Meeting</A>
     </li>
     <li>
