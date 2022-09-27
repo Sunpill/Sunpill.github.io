@@ -18,6 +18,17 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".
+        <br>
+        <ul type="bullet">
+          <li>
+            Title: Deep Face Template Protection in the Wild
+            <br>
+            Participant: Sunpill Kim (Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (Hanyang University)
+          </li>
+        </ul>
+    </li>
+    <li>
         (Jul 11, 2022) Participate in a new project supported by CRYPTOLAB.
         <br>
         (Title: "Development of Encrypted Face Template DB Search Technology")
