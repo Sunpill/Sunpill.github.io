@@ -18,6 +18,9 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+      (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
+    </li>
+    <li>
         (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".
         <br>
         <ul type="bullet">
