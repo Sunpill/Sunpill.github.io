@@ -18,6 +18,9 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+      (Jan 7, 2023) Participate in a new project supported by A*STAR (Singapore).
+    </li>
+    <li>
       (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
     </li>
     <li>
