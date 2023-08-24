@@ -18,6 +18,15 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Aug 22, 2023) The following paper has been accepted for presentation at the BMVC 2023.
+        <br>
+        <ul type="bullet">
+          <li>
+            Seunghun Paik, Sunpill Kim, and Jae Hong Seo, "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"
+          </li>
+        </ul>
+    </li>
+    <li>
       (Jan 7, 2023) Participate in a new project supported by A*STAR (Singapore).
     </li>
     <li>
