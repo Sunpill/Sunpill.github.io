@@ -12,22 +12,24 @@ header:
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interest is in cryptography especially biometric and zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition or speaker recognition.
+I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). From January 2023, I'm [ARAP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme) scholar at A*STAR and am advised by Khin Mi Mi Aung and Tan Yong Kiam. My main research interests include secure AI, deep-learning algorithm, and cryptography.
 
 # News
 
 <ul type="square">
     <li>
-        (Aug 22, 2023) The following paper has been accepted for presentation at the BMVC 2023.
+        (Aug 22, 2023) The following paper has been accepted for presentation at the BMVC 2023 (**Oral**).
         <br>
         <ul type="bullet">
           <li>
-            Seunghun Paik, Sunpill Kim, and Jae Hong Seo, "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"
+            Seunghun Paik, **Sunpill Kim**, and Jae Hong Seo
+            <br>
+            "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"
           </li>
         </ul>
     </li>
     <li>
-      (Jan 7, 2023) Participate in a new project supported by A*STAR (Singapore).
+      (Jan 7, 2023) Participate in a new project supported by **A*STAR (Singapore)**.
     </li>
     <li>
       (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
