@@ -18,6 +18,31 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Oct 4, 2023) Papers won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
+        <ul type="disc">
+          <li>
+            The following paper won the Excellence Award.
+          <ul type="circle">
+            <li>             
+              <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo 
+            <br>
+              <i>IDFace: Efficient and Secure Identification for Face Images</i>
+            </li> 
+          </ul>  
+          </li>
+          <li>
+            The following paper won the Encouragement Award.
+            <ul type="circle">
+            <li>             
+              <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo 
+            <br>
+              <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+            </li> 
+            </ul>   
+          </li>
+        </ul>
+   </li>
+    <li>
         (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC 2023</span></b> (<b>Oral</b>).
         <br>
         <ul type="bullet">
