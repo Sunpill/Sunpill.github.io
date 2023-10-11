@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Sunpill Kim"
   avatar           : "/assets/images/ksp.jpg"
-  bio              : "Hello! I am a researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric with deep learning. Currently I am pursuing a Ph.D. degree in applied mathematics at Hanyang University and am advised by Jae Hong Seo in Cryptology & Algorithm Lab."
-  location         : "South Korea"
+  bio              : "Hello!"
+  location         : "Singapore"
   email            : #"ksp0352@gmail.com"
   #github : "Sunpill"
   links:
