@@ -18,7 +18,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
-        (Aug 22, 2023) The following paper has been accepted for presentation at the BMVC 2023 (<b>Oral</b>).
+        (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC 2023</span></b> (<b>Oral</b>).
         <br>
         <ul type="bullet">
           <li>
@@ -31,66 +31,74 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
     <li>
       (Jan 7, 2023) Participate in a new project supported by <b>A*STAR (Singapore)</b>.
     </li>
-    <li>
-      (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
-    </li>
-    <li>
-        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".
-        <br>
-        <ul type="bullet">
+    <details>
+      <summary>
+        (For more information, click the arrow)
+      </summary>
+        <ul type="square">
           <li>
-            Title: Deep Face Template Protection in the Wild
-            <br>
-            Participant: Sunpill Kim (Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (Hanyang University)
+            (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
+          </li>
+          <li>
+              (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".
+              <br>
+              <ul type="bullet">
+                <li>
+                  Title: Deep Face Template Protection in the Wild
+                  <br>
+                  Participant: Sunpill Kim (Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (Hanyang University)
+                </li>
+              </ul>
+          </li>
+          <li>
+              (Jul 11, 2022) Participate in a new project supported by CRYPTOLAB.
+              <br>
+              (Title: "Development of Encrypted Face Template DB Search Technology")
+          </li>
+          <li>
+              (Apr 28, 2022) Presentation of research results related to <A href="https://Sunpill.github.io/assets/kms_spring_sunpill.pdf">Deep Face Template Protection in the wild</A> at <A href="https://www.kms.or.kr/md_meet/main.html?period=78">2022 KMS Spring Meeting</A>
+          </li>
+          <li>
+              (Feb 22, 2022) Participate in a new project supported by Korea Institute of Information Security & Cryptology.
+              <br>
+              (Title: "Research on Biometric Information Extraction Threats and Protection Methods in Deep Learning-based Face Recognition")
+          </li>
+          <li>
+              (Dec 23, 2021) I will receive a scholarship of about $10000 from the Samil Foundation until February 2023.
+          </li>
+          <li>
+              (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
+          </li>
+          <li>
+              Participate in a new project supported by Samsung Science & Technology Foundation.
+              <br>
+              (Title: "Secure Multi-party Approximate Computation")    
+          </li>
+          <li>
+              Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
+              <details>
+                  <summary>
+                      (For more information, click the arrow)
+                  </summary>
+                  <iframe src="https://www.youtube.com/embed/RDl81Jd83zc?start=15563" width="560" height="315" frameborder="0"> </iframe>
+              </details>
+          </li>
+          <li>
+              Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
+              <br>
+              (Title: "Study on Crypto Primitives for SNARK")
+          </li>
+          <li>
+              Participate in a new project supported by National Security Research Institute (NSR). 
+              <br>
+              (Title: "Research on Incrementally Verifiable Computation Design Technique and Application Method")
+          </li>
+          <li>
+              One paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
           </li>
         </ul>
-    </li>
-    <li>
-        (Jul 11, 2022) Participate in a new project supported by CRYPTOLAB.
-        <br>
-        (Title: "Development of Encrypted Face Template DB Search Technology")
-    </li>
-    <li>
-        (Apr 28, 2022) Presentation of research results related to <A href="https://Sunpill.github.io/assets/kms_spring_sunpill.pdf">Deep Face Template Protection in the wild</A> at <A href="https://www.kms.or.kr/md_meet/main.html?period=78">2022 KMS Spring Meeting</A>
-    </li>
-    <li>
-        (Feb 22, 2022) Participate in a new project supported by Korea Institute of Information Security & Cryptology.
-        <br>
-        (Title: "Research on Biometric Information Extraction Threats and Protection Methods in Deep Learning-based Face Recognition")
-    </li>
-    <li>
-        (Dec 23, 2021) I will receive a scholarship of about $10000 from the Samil Foundation until February 2023.
-    </li>
-    <li>
-        (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
-    </li>
-    <li>
-        Participate in a new project supported by Samsung Science & Technology Foundation.
-        <br>
-        (Title: "Secure Multi-party Approximate Computation")    
-    </li>
-    <li>
-        Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
-        <details>
-            <summary>
-                (For more information, click the arrow)
-            </summary>
-            <iframe src="https://www.youtube.com/embed/RDl81Jd83zc?start=15563" width="560" height="315" frameborder="0"> </iframe>
-        </details>
-    </li>
-    <li>
-        Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
-        <br>
-        (Title: "Study on Crypto Primitives for SNARK")
-    </li>
-    <li>
-        Participate in a new project supported by National Security Research Institute (NSR). 
-        <br>
-        (Title: "Research on Incrementally Verifiable Computation Design Technique and Application Method")
-    </li>
-    <li>
-        One paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
-    </li>
+    </details>
+    
 </ul>    
 
 ## Programming Skills
