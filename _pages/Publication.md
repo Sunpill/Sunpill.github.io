@@ -12,7 +12,7 @@ header:
 
 ## Publications
 
-1. **Sunpill Kim**, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo. <A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular architecture for protecting deep face template</A>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 16125-16134. (**Top-tier conference in computer vision**, acceptance rate: 23.4%)
+1. **Sunpill Kim**, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo. <A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular architecture for protecting deep face template</A>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (**A\*-tier conference to CORE, acceptance rate: 23.4%)
 
 2. Bora Jeong, **Sunpill Kim**, Seunghun Paik, and Jae Hong Seo. <A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>. IEEE Access, December 2022.
 
