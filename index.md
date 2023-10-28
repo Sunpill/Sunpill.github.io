@@ -18,6 +18,17 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Oct 28, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">S&P 2024</span></b>.
+        <br>
+        <ul type="bullet">
+          <li>
+            <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo
+            <br>
+            "Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems"
+          </li>
+        </ul>
+    </li>
+    <li>
         (Oct 4, 2023) Papers won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
         <ul type="disc">
           <li>
