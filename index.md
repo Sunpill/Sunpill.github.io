@@ -18,7 +18,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
-        (Oct 28, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">S&P 2024</span></b>.
+        (Oct 28, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P 2024</span></b>.
         <br>
         <ul type="bullet">
           <li>
