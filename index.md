@@ -18,6 +18,9 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Apr 10, 2024) I was selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
+    </li>
+    <li>
         (Dec 10, 2023) I have participated in <b><span style = "color : #4169E1">CVPR 2024</span></b> as a reviewer.
     </li>
     <li>
