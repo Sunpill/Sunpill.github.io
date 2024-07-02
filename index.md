@@ -12,7 +12,7 @@ header:
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). From January 2023, I'm [ARAP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme) scholar at A*STAR and am advised by Khin Mi Mi Aung and Tan Yong Kiam. My main research interests include secure AI, deep-learning algorithm, and cryptography.
+I graduated from Hanyang University, Department of Mathematics and am pursuing a Ph.D. degree in applied mathematics at the same university. From July 2018, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). From January 2023 to January 2024, I was [ARAP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme) scholar at A*STAR and am advised by Khin Mi Mi Aung and Tan Yong Kiam. My main research interests include secure AI, deep-learning algorithm, and cryptography.
 
 # News
 
