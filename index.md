@@ -18,8 +18,40 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+      (Jul 1, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ECCV</span></b> 2024.
+      <ul type="disc">
+          <li>
+             Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo<br><i>Towards Certifiably Robust Face Recognition</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
+      (Jun 24, 2024) The following project supported by <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started. Also, this is my first research project as a <b>Principal Investigator</b>.
+      <ul type="disc">
+          <li>
+             <i>Secure Authentication System using Deep Learning-based Biometric Recognition System</i>
+          </li>
+      </ul>
+  </li>
+  <li>
+      (Jun 7, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">CISC-S</span></b> 2024. Also, this paper won the Excellenct Paper Award. 
+      <ul type="disc">
+          <li>
+             Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo<br><i>On the Certifiable Robustness of Face Recognition Systems</i>
+          </li>  
+      </ul>
+   </li>
+   <li>
         (Apr 10, 2024) I was selected as the <b>1st Graduate Presidential Science Scholarship recipient</b>. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
     </li>
+    <li>
+      (Apr 1, 2024) The following project supported by <b><span style = "color : #E8751A">Korea Creative Content Agency (KOCCA)</span></b> has started.
+      <ul type="disc">
+          <li>
+             <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
+          </li>  
+      </ul>
+   </li>
     <li>
         (Dec 10, 2023) I have participated in <b><span style = "color : #4169E1">CVPR 2024</span></b> as a reviewer.
     </li>
