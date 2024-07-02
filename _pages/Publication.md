@@ -42,7 +42,7 @@ header:
       <p>
           <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i> 
           <br>
-          <b>34rd British Machine Vision Conference (BMVC)</b> 2023, (<A href="https://papers.bmvc2023.org/0535.pdf">DOI</A>) (<b>Oral</b>, acceptance rate:9%)
+          <b>34rd British Machine Vision Conference (BMVC)</b> 2023, (<A href="https://papers.bmvc2023.org/0535.pdf">DOI</A>) (<b>Oral</b>, oral acceptance rate:9%)
       </p>  
 </li>
 <li> 
