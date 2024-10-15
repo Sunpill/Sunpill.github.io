@@ -18,7 +18,7 @@ header:
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
-          <b>The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (TBA) (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
+          <b>The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
       </p>  
 </li>  
 <li> 
