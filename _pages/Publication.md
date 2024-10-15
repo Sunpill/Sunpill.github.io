@@ -18,7 +18,7 @@ header:
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
-          <b>The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (TBA) (<b>Top-tier conference in computer vision</b>, acceptance rate: 18.9%)
+          <b>The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (TBA) (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
       </p>  
 </li>  
 <li> 
@@ -26,7 +26,7 @@ header:
       <p>
           <i>On the Certifiable Robustness of Face Recognition Systems</i> 
           <br>
-          <b>CISC-S</b> 2024, (TBA)
+          <b>CISC-S</b> 2024, (Excellence Paper Award by the Director of National Security Research Institute)
       </p>  
 </li>   
 <li> 
@@ -34,7 +34,7 @@ header:
       <p>
           <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i> 
           <br>
-          <b>IEEE Symposium on Security and Privacy (S&P)</b> 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 14.9%)
+          <b>IEEE Symposium on Security and Privacy (S&P)</b> 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 17.8%)
       </p>  
 </li>
 <li> 
@@ -72,6 +72,14 @@ header:
 
 <ul>
 <li> 
+  [M6] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+      <p>
+          <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
+          <br>
+          (Under Review)
+      </p>  
+</li>  
+<li> 
   [M5] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>Locality-Sensitive Hashing-based Biometric Template Protection Schemes are fully Reversible!</i> 
@@ -80,7 +88,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M4] Minsu Kim, Seunghun Paik, Seong-ae Baek, SANGYUN SHIN, **Sunpill Kim**, and Jae Hong Seo
+  [M4] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
           <br>
