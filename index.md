@@ -18,6 +18,21 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
     <li>
+        (Oct 11, 2024) Paper won Encouragement award at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2024.
+        <ul type="disc">
+          <li>
+            The following paper won the Encouragement Award. Congrats all authors who participated in this submission.
+          <ul type="circle">
+            <li>             
+              Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo 
+            <br>
+              <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i>
+            </li> 
+          </ul>  
+          </li>
+        </ul>
+   </li>
+    <li>
       (Jul 1, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ECCV</span></b> 2024.
       <ul type="disc">
           <li>
