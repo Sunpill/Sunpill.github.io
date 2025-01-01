@@ -80,7 +80,7 @@ header:
 
 <ul>
 <li> 
-  [M6] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M5] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
           <br>
@@ -88,7 +88,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M5] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M4] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>Locality-Sensitive Hashing-based Biometric Template Protection Schemes are fully Reversible!</i> 
           <br>
@@ -96,7 +96,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M4] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M3] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
           <br>
@@ -104,17 +104,9 @@ header:
       </p>  
 </li>
 <li> 
-  [M3] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo
+  [M2] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo
       <p>
           <i>IDFace: Efficient and Secure Identification for Face Images</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>
-<li> 
-  [M2] <b>Sunpill Kim</b>, Hoyong Shin, and Jae Hong Seo
-      <p>
-          <i>Deep Face Template Protection in the Wild</i> 
           <br>
           (Under Review)
       </p>  
