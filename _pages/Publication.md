@@ -59,6 +59,14 @@ header:
 
 <ul>
 <li> 
+  [J2] <b>Sunpill Kim</b>, Hoyong Shin, and Jae Hong Seo
+      <p>
+          <i>Deep Face Template Protection in the Wild</i> 
+          <br>
+          Pattern Recognition, TBA
+      </p>  
+</li>
+<li> 
   [J1] Bora Jeong, <b>Sunpill Kim</b>, Seunghun Paik, and Jae Hong Seo
       <p>
           <i>Analysis on Secure Triplet Loss</i> 
