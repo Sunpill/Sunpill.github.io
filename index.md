@@ -17,7 +17,18 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 # News
 
 <ul type="square">
-    <li>
+  <li>
+      (Jan 1, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">Pattern Recognition</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Hoyong Shin, and Jae Hong Seo<br><i>Deep Face Template Protection in the Wild</i>
+          </li>  
+      </ul>
+ </li>
+  <li>
+        (Nov 11, 2024) I have participated in <b><span style = "color : #4169E1">CVPR 2025</span></b> as a reviewer.
+  </li>
+  <li>
         (Oct 11, 2024) Paper won Encouragement award at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2024.
         <ul type="disc">
           <li>
