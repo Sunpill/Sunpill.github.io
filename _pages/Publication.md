@@ -63,7 +63,7 @@ header:
       <p>
           <i>Deep Face Template Protection in the Wild</i> 
           <br>
-          Pattern Recognition, TBA
+          Pattern Recognition, 162, 111336, 2025. (<A href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324010872">DOI</A>) (IF: 7.5)
       </p>  
 </li>
 <li> 
@@ -71,7 +71,7 @@ header:
       <p>
           <i>Analysis on Secure Triplet Loss</i> 
           <br>
-          IEEE Access, Vol.10, pp 124355--124362  Novemver 2022. (<A href="https://ieeexplore.ieee.org/document/9965373">DOI</A>) (IF: 5.113 according to <A href="https://www.scimagojr.com/">SCImago</A>)
+          IEEE Access, Vol.10, pp 124355--124362  Novemver 2022. (<A href="https://ieeexplore.ieee.org/document/9965373">DOI</A>) (IF: 5.113)
       </p>  
 </li>
 </ul>
@@ -79,6 +79,22 @@ header:
 ## Manuscripts
 
 <ul>
+<li> 
+  [M7] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
+      <p>
+          <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
+          <br>
+          (Under Review)
+      </p>  
+</li>  
+<li> 
+  [M6] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
+      <p>
+          <i>Non-Adaptive Adversarial Face Generation in the Dark</i> 
+          <br>
+          (Under Review)
+      </p>  
+</li>  
 <li> 
   [M5] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
