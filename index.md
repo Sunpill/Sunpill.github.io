@@ -91,65 +91,65 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
           </li>  
       </ul>
    </li>
-    <li>
-        (Dec 10, 2023) I have participated in <b><span style = "color : #4169E1">CVPR 2024</span></b> as a reviewer.
-    </li>
-    <li>
-        (Oct 28, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P 2024</span></b>.
-        <br>
-        <ul type="bullet">
-          <li>
-            <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo
-            <br>
-            "Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems"
-          </li>
-        </ul>
-    </li>
-    <li>
-        (Oct 4, 2023) Papers won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
-        <ul type="disc">
-          <li>
-            The following paper won the Excellence Award.
-          <ul type="circle">
-            <li>             
-              <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo 
-            <br>
-              <i>IDFace: Efficient and Secure Identification for Face Images</i>
-            </li> 
-          </ul>  
-          </li>
-          <li>
-            The following paper won the Encouragement Award.
-            <ul type="circle">
-            <li>             
-              <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo 
-            <br>
-              <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
-            </li> 
-            </ul>   
-          </li>
-        </ul>
-   </li>
-    <li>
-        (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC 2023</span></b> (<b>Oral</b>).
-        <br>
-        <ul type="bullet">
-          <li>
-            Seunghun Paik, <b>Sunpill Kim</b>, and Jae Hong Seo
-            <br>
-            "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"
-          </li>
-        </ul>
-    </li>
-    <li>
-      (Jan 7, 2023) Participate in a new project supported by <b>A*STAR (Singapore)</b>.
-    </li>
   </ul>
   <details>
     <summary>
       (For more information, click the arrow)
     </summary>
-      <ul type="square">
+      <ul type="square">   
+      <li>
+          (Dec 10, 2023) I have participated in <b><span style = "color : #4169E1">CVPR 2024</span></b> as a reviewer.
+      </li>
+      <li>
+          (Oct 28, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P 2024</span></b>.
+          <br>
+          <ul type="bullet">
+            <li>
+              <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo
+              <br>
+              "Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems"
+            </li>
+          </ul>
+      </li>
+      <li>
+          (Oct 4, 2023) Papers won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
+          <ul type="disc">
+            <li>
+              The following paper won the Excellence Award.
+            <ul type="circle">
+              <li>             
+                <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo 
+              <br>
+                <i>IDFace: Efficient and Secure Identification for Face Images</i>
+              </li> 
+            </ul>  
+            </li>
+            <li>
+              The following paper won the Encouragement Award.
+              <ul type="circle">
+              <li>             
+                <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo 
+              <br>
+                <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+              </li> 
+              </ul>   
+            </li>
+          </ul>
+     </li>
+      <li>
+          (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC 2023</span></b> (<b>Oral</b>).
+          <br>
+          <ul type="bullet">
+            <li>
+              Seunghun Paik, <b>Sunpill Kim</b>, and Jae Hong Seo
+              <br>
+              "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"
+            </li>
+          </ul>
+      </li>
+      <li>
+        (Jan 7, 2023) Participate in a new project supported by <b>A*STAR (Singapore)</b>.
+      </li>
         <li>
           (Dec 6, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9965373">Analysis on Secure Triplet Loss</A>) is accepted at IEEE Access.
         </li>
