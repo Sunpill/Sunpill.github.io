@@ -18,6 +18,19 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
+      (Feb 14, 2025) I have participated in <b><span style = "color : #4169E1">ICCV 2025</span></b> as a reviewer.
+  </li>
+  <li>
+      (Feb 11, 2025) Paper won Top award at the <b><span style = "color : #08A709">Best Research Paper Award 2024</span></b> (The Research Institute for Natural Sciences, Hanyang University) for graduate students.
+        <ul type="circle">
+          <li>             
+            <b>Sunpill Kim</b>, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo
+          <br>
+            <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+          </li> 
+        </ul>        
+  </li>
+  <li>
       (Jan 1, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">Pattern Recognition</span></b>.
       <ul type="disc">
           <li>
