@@ -18,7 +18,12 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
-      (Feb 14, 2025) I have participated in <b><span style = "color : #4169E1">ICCV 2025</span></b> as a reviewer.
+      (Jun 26, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ICCV</span></b> 2025.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsoo Kim, Junbum Shin, and Jae Hong Seo<br><i>IDFace: Face Template Protection for Efficient and Secure Identification</i>
+          </li>  
+      </ul>
   </li>
   <li>
       (Feb 11, 2025) Paper won Top award at the <b><span style = "color : #08A709">Best Research Paper Award 2024</span></b> (The Research Institute for Natural Sciences, Hanyang University) for graduate students.
