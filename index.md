@@ -21,7 +21,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
       (Jun 26, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ICCV</span></b> 2025.
       <ul type="disc">
           <li>
-             <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsoo Kim, Junbum Shin, and Jae Hong Seo<br><i>IDFace: Face Template Protection for Efficient and Secure Identification</i>
+             <b>Sunpill Kim</b>*, Seunghun Paik*, Chanwoo Hwang, Dongsoo Kim, Junbum Shin, and Jae Hong Seo (*: Equal Contribution)<br><i>IDFace: Face Template Protection for Efficient and Secure Identification</i>
           </li>  
       </ul>
   </li>
