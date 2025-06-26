@@ -14,7 +14,7 @@ header:
 
 <ul type="none">
 <li> 
-  [C6] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo
+  [C6] <b>Sunpill Kim</b>*, Seunghun Paik*, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo (*: Equal Contribution)
       <p>
           <i>IDFace: Efficient and Secure Identification for Face Images</i> 
           <br>
@@ -120,7 +120,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M2] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M2] Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)
       <p>
           <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
           <br>
