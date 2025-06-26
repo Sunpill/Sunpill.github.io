@@ -14,11 +14,19 @@ header:
 
 <ul type="none">
 <li> 
+  [C6] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo
+      <p>
+          <i>IDFace: Efficient and Secure Identification for Face Images</i> 
+          <br>
+          <b>The 20th International Conference on Computer Vision ICCV 2025</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 24%)
+      </p>  
+</li>
+<li> 
   [C5] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
-          <b>The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
+          <b>The 18th European Conference on Computer Vision ECCV 2024</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
       </p>  
 </li>  
 <li> 
@@ -80,7 +88,7 @@ header:
 
 <ul>
 <li> 
-  [M7] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
+  [M6] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
       <p>
           <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
           <br>
@@ -88,7 +96,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M6] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
+  [M5] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
       <p>
           <i>Non-Adaptive Adversarial Face Generation in the Dark</i> 
           <br>
@@ -96,7 +104,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M5] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M4] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
           <br>
@@ -104,7 +112,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M4] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M3] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>Locality-Sensitive Hashing-based Biometric Template Protection Schemes are fully Reversible!</i> 
           <br>
@@ -112,17 +120,9 @@ header:
       </p>  
 </li>  
 <li> 
-  [M3] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M2] Minsu Kim, Seunghun Paik, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>
-<li> 
-  [M2] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo
-      <p>
-          <i>IDFace: Efficient and Secure Identification for Face Images</i> 
           <br>
           (Under Review)
       </p>  
