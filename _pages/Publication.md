@@ -10,13 +10,14 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+
 ## Conference
 
 <ul type="none">
 <li> 
   [C6] <b>Sunpill Kim</b>*, Seunghun Paik*, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo (*: Equal Contribution)
       <p>
-          <i>IDFace: Efficient and Secure Identification for Face Images</i> 
+          <i>IDFace: Face Template Protection for Efficient and Secure Identification</i> 
           <br>
           <b>The 20th International Conference on Computer Vision ICCV 2025</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 24%)
       </p>  
