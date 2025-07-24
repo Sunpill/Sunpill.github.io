@@ -89,6 +89,14 @@ header:
 
 <ul>
 <li> 
+  [M7] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
+      <p>
+          <i>Analyzing and Improving Certifiably Robust Face Recognition</i> 
+          <br>
+          (Under Review)
+      </p>  
+</li>  
+<li> 
   [M6] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
       <p>
           <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
