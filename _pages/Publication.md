@@ -89,9 +89,17 @@ header:
 
 <ul>
 <li> 
-  [M8] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [M9] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
+          <br>
+          (Under Review)
+      </p>  
+</li>  
+<li> 
+  [M8] Changjin Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+      <p>
+          <i>A Survey of Model Inversion Attacks on Image Domain</i> 
           <br>
           (Under Review)
       </p>  
