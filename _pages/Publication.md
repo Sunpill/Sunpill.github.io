@@ -153,7 +153,7 @@ header:
       </p>  
 </li>
 <li> 
-  [M1] <b>Sunpill Kim</b> and Yong Kiam Tan
+  [M1] <b>Sunpill Kim</b>* and Yong Kiam Tan* (*: Equal Contribution)
       <p>
           <i>Formalization of the Schwartz-Zippel Lemma</i> 
           <br>
