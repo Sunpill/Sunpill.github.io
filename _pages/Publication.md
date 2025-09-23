@@ -15,11 +15,27 @@ header:
 
 <ul type="none">
 <li> 
+  [C8] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
+      <p>
+          <i>Non-Adaptive Adversarial Face Generation in the Dark</i> 
+          <br>
+          The 39th Annual Conference on Neural Information Processing Systems <b>NeurIPS 2025</b>, (<b>Top-tier conference in machine learning</b>, acceptance rate: 24.52%)
+      </p>  
+</li>  
+<li> 
+  [C7] Changjin Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+      <p>
+          <i>A Survey of Model Inversion Attacks on Image Domain</i> 
+          <br>
+          The 16th International Conference on ICT Convergence IEEE ICTC 2025
+      </p>  
+</li>  
+<li> 
   [C6] <b>Sunpill Kim</b>*, Seunghun Paik*, Chanwoo Hwang, Dongsu Kim, Junbum Shin, and Jae Hong Seo (*: Equal Contribution)
       <p>
           <i>IDFace: Face Template Protection for Efficient and Secure Identification</i> 
           <br>
-          <b>The 20th International Conference on Computer Vision ICCV 2025</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 24%)
+          The 20th International Conference on Computer Vision <b>ICCV 2025</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 24.19%)
       </p>  
 </li>
 <li> 
@@ -27,7 +43,7 @@ header:
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
-          <b>The 18th European Conference on Computer Vision ECCV 2024</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
+          The 18th European Conference on Computer Vision <b>ECCV 2024</b>, (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
       </p>  
 </li>  
 <li> 
@@ -35,7 +51,7 @@ header:
       <p>
           <i>On the Certifiable Robustness of Face Recognition Systems</i> 
           <br>
-          <b>CISC-S</b> 2024, (Excellence Paper Award by the Director of National Security Research Institute)
+          CISC-S 2024, (Excellence Paper Award by the Director of National Security Research Institute)
       </p>  
 </li>   
 <li> 
@@ -43,7 +59,7 @@ header:
       <p>
           <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i> 
           <br>
-          <b>IEEE Symposium on Security and Privacy (S&P)</b> 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 17.8%)
+          IEEE Symposium on Security and Privacy <b>S&P 2024</b>, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 17.8%)
       </p>  
 </li>
 <li> 
@@ -51,7 +67,7 @@ header:
       <p>
           <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i> 
           <br>
-          <b>34rd British Machine Vision Conference (BMVC)</b> 2023, (<A href="https://papers.bmvc2023.org/0535.pdf">DOI</A>) (<b>Oral</b>, oral acceptance rate:9%)
+          34rd British Machine Vision Conference BMVC 2023, (<A href="https://papers.bmvc2023.org/0535.pdf">DOI</A>) (<b>Oral</b>, oral acceptance rate:9%)
       </p>  
 </li>
 <li> 
@@ -59,7 +75,7 @@ header:
       <p>
           <i>IronMask: Modular architecture for protecting deep face template</i> 
           <br>
-          <b>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</b> 2021, (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">DOI</A>) (<b>Top-tier conference in computer vision</b>, acceptance rate: 23.7%)
+          IEEE/CVF Conference on Computer Vision and Pattern Recognition </b>CVPR 2021</b>, (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">DOI</A>) (<b>Top-tier conference in computer vision</b>, acceptance rate: 23.7%)
       </p>  
 </li>  
 </ul>
@@ -89,7 +105,7 @@ header:
 
 <ul>
 <li> 
-  [M9] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [M7] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
           <br>
@@ -97,15 +113,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M8] Changjin Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
-      <p>
-          <i>A Survey of Model Inversion Attacks on Image Domain</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>  
-<li> 
-  [M7] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
+  [M6] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
       <p>
           <i>Analyzing and Improving Certifiably Robust Face Recognition</i> 
           <br>
@@ -113,17 +121,9 @@ header:
       </p>  
 </li>  
 <li> 
-  [M6] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
+  [M5] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
       <p>
           <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>  
-<li> 
-  [M5] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
-      <p>
-          <i>Non-Adaptive Adversarial Face Generation in the Dark</i> 
           <br>
           (Under Review)
       </p>  
