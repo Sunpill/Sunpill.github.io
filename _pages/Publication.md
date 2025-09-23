@@ -75,7 +75,7 @@ header:
       <p>
           <i>IronMask: Modular architecture for protecting deep face template</i> 
           <br>
-          IEEE/CVF Conference on Computer Vision and Pattern Recognition </b>CVPR 2021</b>, (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">DOI</A>) (<b>Top-tier conference in computer vision</b>, acceptance rate: 23.7%)
+          IEEE/CVF Conference on Computer Vision and Pattern Recognition <b>CVPR 2021</b>, (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">DOI</A>) (<b>Top-tier conference in computer vision</b>, acceptance rate: 23.7%)
       </p>  
 </li>  
 </ul>
