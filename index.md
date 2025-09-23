@@ -18,6 +18,26 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
+      (Sep 19, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">NeurIPS</span></b> 2025.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo <br><i>Non-Adaptive Adversarial Face Generation</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
+      (Sep 15, 2025) I have participated in <b><span style = "color : #4169E1">CVPR 2026</span></b> as a reviewer.
+  </li>
+  <li>
+      (Sep 07, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">IEEE ICTC</span></b> 2025.
+      <ul type="disc">
+          <li>
+             Changjin Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+            <br><i>A Survey of Model Inversion Attacks on Image Domain</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
       (Jun 26, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ICCV</span></b> 2025.
       <ul type="disc">
           <li>
