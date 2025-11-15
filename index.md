@@ -18,7 +18,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
-      (Nov 1, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
+      (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
       <ul type="disc">
           <li>
              Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo<br><i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i>
