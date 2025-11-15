@@ -112,7 +112,7 @@ header:
 
 <ul>
 <li> 
-  [M7] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [M6] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
           <br>
@@ -120,7 +120,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M6] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
+  [M5] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
       <p>
           <i>Analyzing and Improving Certifiably Robust Face Recognition</i> 
           <br>
@@ -128,7 +128,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M5] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
+  [M4] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
       <p>
           <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
           <br>
@@ -136,17 +136,9 @@ header:
       </p>  
 </li>  
 <li> 
-  [M4] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [M3] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>  
-<li> 
-  [M3] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
-      <p>
-          <i>Locality-Sensitive Hashing-based Biometric Template Protection Schemes are fully Reversible!</i> 
           <br>
           (Under Review)
       </p>  
