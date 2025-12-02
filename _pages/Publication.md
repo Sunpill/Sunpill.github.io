@@ -84,6 +84,13 @@ header:
 
 <ul>
 <li> 
+  [J4] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
+      <p>
+          <i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
+          <br>
+          IEEE Transactions on Biometrics, Behavior, and Identity Science, TBA. (IF: 5.0)
+      </p>  
+</li><li> 
   [J3] Seunghun Paik, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i> 
@@ -95,7 +102,7 @@ header:
       <p>
           <i>Deep Face Template Protection in the Wild</i> 
           <br>
-          Pattern Recognition, 162, 111336, 2025. (<A href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324010872">DOI</A>) (IF: 7.5)
+          Pattern Recognition, 162, 111336, 2025. (<A href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324010872">DOI</A>) (IF: 7.6)
       </p>  
 </li>
 <li> 
