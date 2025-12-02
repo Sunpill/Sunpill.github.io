@@ -18,6 +18,14 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
+      (Dec 3, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE T-BIOM</span></b>.
+      <ul type="disc">
+          <li>
+             Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo<br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i>
+          </li>  
+      </ul>
+ </li>
+  <li>
       (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
       <ul type="disc">
           <li>
