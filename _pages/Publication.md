@@ -127,17 +127,9 @@ header:
 
 <ul>
 <li> 
-  [O5] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [O4] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>  
-<li> 
-  [O4] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
-      <p>
-          <i>Analyzing and Improving Certifiably Robust Face Recognition</i> 
           <br>
           (Under Review)
       </p>  
