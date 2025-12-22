@@ -18,6 +18,14 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing a
 
 <ul type="square">
   <li>
+      (Dec 22, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
+      <ul type="disc">
+          <li>
+             Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo<br><i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i>
+          </li>  
+      </ul>
+ </li>
+  <li>
       (Dec 3, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE T-BIOM</span></b>.
       <ul type="disc">
           <li>
