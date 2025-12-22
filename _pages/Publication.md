@@ -84,6 +84,14 @@ header:
 
 <ul>
 <li> 
+  [J5] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
+      <p>
+          <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
+          <br>
+          IEEE Access, TBA.
+      </p>  
+</li>  
+<li> 
   [J4] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
@@ -115,11 +123,11 @@ header:
 </li>
 </ul>
 
-## Manuscripts
+## Others
 
 <ul>
 <li> 
-  [M6] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [O5] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
           <br>
@@ -127,7 +135,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M5] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
+  [O4] Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, <b>Sunpill Kim</b> and Jae Hong Seo
       <p>
           <i>Analyzing and Improving Certifiably Robust Face Recognition</i> 
           <br>
@@ -135,15 +143,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M4] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
-      <p>
-          <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>  
-<li> 
-  [M3] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [O3] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
           <br>
@@ -151,7 +151,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [M2] Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)
+  [O2] Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)
       <p>
           <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
           <br>
@@ -159,7 +159,7 @@ header:
       </p>  
 </li>
 <li> 
-  [M1] <b>Sunpill Kim</b>* and Yong Kiam Tan* (*: Equal Contribution)
+  [O1] <b>Sunpill Kim</b>* and Yong Kiam Tan* (*: Equal Contribution)
       <p>
           <i>Formalization of the Schwartz-Zippel Lemma</i> 
           <br>
