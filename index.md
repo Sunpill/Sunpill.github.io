@@ -271,7 +271,7 @@ My research focuses on the security and vulnerability analysis of metric-learnin
 
 ## Programming Skills
 
-Familiar with: **Python, PyTorch, MXNet, Matlab, TeX.**
+Familiar with: **Python, PyTorch, TeX.**
 
 ## Languages
 
