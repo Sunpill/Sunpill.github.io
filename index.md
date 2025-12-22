@@ -14,7 +14,7 @@ header:
 
 I received my B.S. in Mathematics from Hanyang University and will receive my Ph.D. in Applied Mathematics from the same institution in February 2026. Since July 2018, I have been a member of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io/), where I was advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/).
 
-From January 2023 to January 2024, I was an [ARAP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme) scholar at [A*STAR Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), working under the supervision of Dr. Khin Mi Mi Aung and Dr. Tan Yong Kiam.
+From January 2023 to January 2024, I was an [ARAP](https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap) scholar at [A*STAR Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), working under the supervision of Dr. Khin Mi Mi Aung and Dr. Tan Yong Kiam.
 
 My research focuses on the security and vulnerability analysis of metric-learning–based recognition systems, including biometric and vision–language models. My work spans adversarial attacks, biometric template protection, and related detection tasks, with an emphasis on both theoretical foundations and practical deployment.
 
