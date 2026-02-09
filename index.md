@@ -23,6 +23,14 @@ My research focuses on the security and vulnerability analysis of metric-learnin
 
 <ul type="square">
   <li>
+      (Feb 5, 2026) I will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b><br>Thesis Title: <i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i>
+          </li>  
+      </ul>
+ </li>
+  <li>
       (Dec 22, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
           <li>
