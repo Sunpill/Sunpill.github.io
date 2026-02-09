@@ -100,7 +100,13 @@ My research focuses on the security and vulnerability analysis of metric-learnin
           </li>  
       </ul>
  </li>
-  <li>
+  </ul>
+  <details>
+    <summary>
+      (For more information, click the arrow)
+    </summary>
+      <ul type="square">  
+         <li>
         (Nov 11, 2024) I have participated in <b><span style = "color : #4169E1">CVPR 2025</span></b> as a reviewer.
   </li>
   <li>
@@ -153,12 +159,6 @@ My research focuses on the security and vulnerability analysis of metric-learnin
           </li>  
       </ul>
    </li>
-  </ul>
-  <details>
-    <summary>
-      (For more information, click the arrow)
-    </summary>
-      <ul type="square">   
       <li>
           (Dec 10, 2023) I have participated in <b><span style = "color : #4169E1">CVPR 2024</span></b> as a reviewer.
       </li>
