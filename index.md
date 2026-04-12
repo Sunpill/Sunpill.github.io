@@ -23,6 +23,14 @@ My research focuses on the security and vulnerability analysis of metric-learnin
 
 <ul type="square">
   <li>
+      (Apr 10, 2026) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2026.
+      <ul type="disc">
+          <li>
+             Seunghun Paik*, <b>Sunpill Kim</b>*, Chanwoo Hwang, and Jae Hong Seo (*: Equal Contribution)<br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
       (Feb 5, 2026) I will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
       <ul type="disc">
           <li>
