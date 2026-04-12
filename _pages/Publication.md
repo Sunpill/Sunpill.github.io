@@ -13,7 +13,15 @@ header:
 
 ## Conference
 
-<ul type="none">
+<ul type="none">  
+<li> 
+  [C9] Seunghun Paik*, <b>Sunpill Kim</b>*, Chanwoo Hwang, and Jae Hong Seo (*: Equal Contribution)
+      <p>
+          <i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
+          <br>
+          ACM Conference on Computer and Communications Security <b>CCS 2026</b>, (to appear) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: TBD)
+      </p>  
+</li>
 <li> 
   [C8] <b>Sunpill Kim</b>, Seunghun Paik, Chanwoo Hwang, Minsu Kim, and Jae Hong Seo
       <p>
