@@ -23,6 +23,14 @@ My research focuses on the security and vulnerability analysis of metric-learnin
 
 <ul type="square">
   <li>
+      (Apr 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
+      <ul type="disc">
+          <li>
+             Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)<br><i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i>
+          </li>  
+      </ul>
+ </li>
+  <li>
       (Apr 10, 2026) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2026.
       <ul type="disc">
           <li>
