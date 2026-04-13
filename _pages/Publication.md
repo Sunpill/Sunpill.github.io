@@ -92,6 +92,14 @@ header:
 
 <ul>
 <li> 
+  [J6] Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)
+      <p>
+          <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
+          <br>
+          IEEE Access, TBA.
+      </p>  
+</li>
+<li> 
   [J5] Hyunjung Son, Seunghun Paik, Yunki Kim, <b>Sunpill Kim</b>, Heewon Chung, and Jae Hong Seo
       <p>
           <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
@@ -135,7 +143,7 @@ header:
 
 <ul>
 <li> 
-  [O4] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
+  [O3] Chanwoo Hwang, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, Dongsoo Kim, Seunghun Paik, Mondal Soumik, Khin Mi Mi Aung, and Jae Hong Seo
       <p>
           <i>Scores Know Bob’s Voice: Non-Adaptive Impersonation Attack</i> 
           <br>
@@ -143,21 +151,13 @@ header:
       </p>  
 </li>  
 <li> 
-  [O3] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
+  [O2] Seunghun Paik, Minsu Kim, <b>Sunpill Kim</b>, and Jae Hong Seo
       <p>
           <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i> 
           <br>
           (Under Review)
       </p>  
 </li>  
-<li> 
-  [O2] Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <b>Sunpill Kim</b>, and Jae Hong Seo (*: Equal Contribution)
-      <p>
-          <i>SilverMask: Face Template Protection with Fine-Grained Noise-Correction</i> 
-          <br>
-          (Under Review)
-      </p>  
-</li>
 <li> 
   [O1] <b>Sunpill Kim</b>* and Yong Kiam Tan* (*: Equal Contribution)
       <p>
