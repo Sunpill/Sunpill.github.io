@@ -70,8 +70,25 @@ description: "Sunpill Kim — postdoctoral researcher at Hanyang University work
 <section>
   <div class="sec-label">Recent</div>
   <ul class="news-list">
-    {%- assign recent = site.data.news | slice: 0, 7 -%}
-    {%- for n in recent -%}
+    {%- comment -%}
+      Show news from the last 12 months (rolling, by month):
+      cutoff = first day of (current month - 11). E.g. May 2026 → 2025-06-01.
+      Cutoff is computed at build time from site.time, so the window
+      advances whenever the site is rebuilt (every push triggers a rebuild).
+    {%- endcomment -%}
+    {%- assign cur_year  = site.time | date: '%Y' | plus: 0 -%}
+    {%- assign cur_month = site.time | date: '%m' | plus: 0 -%}
+    {%- assign cutoff_month = cur_month | minus: 11 -%}
+    {%- assign cutoff_year  = cur_year -%}
+    {%- if cutoff_month <= 0 -%}
+      {%- assign cutoff_month = cutoff_month | plus: 12 -%}
+      {%- assign cutoff_year  = cur_year | minus: 1 -%}
+    {%- endif -%}
+    {%- assign mm = cutoff_month | prepend: '0' | slice: -2, 2 -%}
+    {%- assign cutoff = cutoff_year | append: '-' | append: mm | append: '-01' -%}
+
+    {%- for n in site.data.news -%}
+      {%- if n.date >= cutoff -%}
       <li>
         <span class="date">{{ n.date | date: "%b %Y" }}</span>
         <span class="body">
@@ -86,6 +103,7 @@ description: "Sunpill Kim — postdoctoral researcher at Hanyang University work
           {%- endif -%}
         </span>
       </li>
+      {%- endif -%}
     {%- endfor -%}
   </ul>
   <p class="more"><a href="{{ '/news/' | relative_url }}">all news</a></p>
