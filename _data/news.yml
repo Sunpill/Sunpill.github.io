@@ -2,6 +2,9 @@
 #  News  (newest first)
 # ============================================================
 
+- date:    "2026-04-20"
+  body:    "Served as a reviewer for <strong>NeurIPS 2026</strong>."
+
 - date:    "2026-04-13"
   venue:   "IEEE Access"
   tier:    ""
@@ -16,6 +19,9 @@
 
 - date:    "2026-02-05"
   body:    "Received the <strong>Outstanding Ph.D. Dissertation Award</strong> from Hanyang University. Thesis: <em>Score-Based Non-Adaptive Attack Against Face Recognition Systems</em>."
+
+- date:    "2026-01-15"
+  body:    "Served as a reviewer for <strong>ECCV 2026</strong>."
 
 - date:    "2025-12-22"
   venue:   "IEEE Access"
