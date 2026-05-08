@@ -34,8 +34,8 @@ author:
 #  Currently set to (1) — test repo. When you move to the real
 #  repo, swap to (2) and bring back the CNAME file.
 # ============================================================
-url: "https://sunpill.github.io"
-baseurl: "/sunpillkim-test"
+url: "https://sunpillkim.com"
+baseurl: ""
 
 # ============================================================
 #  Build
