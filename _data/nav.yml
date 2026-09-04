@@ -11,6 +11,9 @@
   url: "/publications/"
 - name: "others"
   url: "/others/"
+- name: "lab"
+  url: "https://sunpillkim.com/aisec-lab/"
+  external: true
 - name: "cv"
   url: "/assets/files/cv.pdf"
   external: true
