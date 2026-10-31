@@ -2,6 +2,12 @@
 #  News  (newest first)
 # ============================================================
 
+- date:    "2026-10-31"
+  venue:   "IEEE TIFS"
+  tier:    "top"
+  title:   "General Security Analysis for Face Template Protection Methods from Cryptographic Hash Functions"
+  authors: "S. Paik, M. Kim, <span class='me'>S. Kim</span>, J. H. Seo"
+
 - date:    "2026-09-01"
   body:    "Joined the <strong>Division of Software</strong> at <strong>Sookmyung Women's University</strong> as an <strong>assistant professor</strong>."
 

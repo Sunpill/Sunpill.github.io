@@ -7,7 +7,7 @@
 #  "Top" tier (yellow highlight) is reserved for:
 #    - IEEE S&P, ACM CCS                          (top security)
 #    - NeurIPS, ICCV, ECCV, CVPR, BMVC oral      (top CV / ML)
-#    - IEEE TPAMI, IEEE TDSC, Pattern Recognition (top journals)
+#    - IEEE TPAMI, IEEE TIFS, IEEE TDSC, Pattern Recognition (top journals)
 #
 #  Display order: ENTRIES APPEAR ON THE PAGE IN THE EXACT ORDER
 #  THEY ARE LISTED HERE (within each category). Keep newest first.
@@ -103,6 +103,15 @@
 #  Journals
 # ============================================================
 
+- title: "General Security Analysis for Face Template Protection Methods from Cryptographic Hash Functions"
+  authors: "Seunghun Paik, Minsu Kim, <span class='me'>Sunpill Kim</span>, Jae Hong Seo"
+  venue: "IEEE Transactions on Information Forensics and Security"
+  venue_short: "IEEE TIFS 2026"
+  year: 2026
+  category: "journal"
+  tier: "top"
+  note: "accepted · to appear"
+
 - title: "SilverMask: Face Template Protection with Fine-Grained Noise-Correction"
   authors: "Minsu Kim*, Seunghun Paik*, Seong-ae Baek, Sangyun Shin, <span class='me'>Sunpill Kim</span>, Jae Hong Seo"
   venue: "IEEE Access"
@@ -180,14 +189,6 @@
   category: "other"
   tier: ""
   pdf: "https://arxiv.org/abs/2603.02781"
-
-- title: "On the Security-Accuracy Trade-off of Hash-based Face Template Protections"
-  authors: "Seunghun Paik, Minsu Kim, <span class='me'>Sunpill Kim</span>, Jae Hong Seo"
-  venue: "Under review"
-  venue_short: "Under review"
-  year: 2024
-  category: "other"
-  tier: ""
 
 - title: "Formalization of the Schwartz-Zippel Lemma"
   authors: "<span class='me'>Sunpill Kim</span>*, Yong Kiam Tan*"
